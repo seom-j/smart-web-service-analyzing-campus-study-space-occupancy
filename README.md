@@ -5,6 +5,11 @@ seatnullnull : smart-web-service-analyzing-campus-study-space-occupancy
 
 <br/><br/>
 
+## 🏆 프로젝트 수상
+✨ 세종대학교 컴퓨터공학과 학술제 장려상 ✨ 
+
+<br/><br/>
+
 ## :star2: 팀에서의 역할
 📌 팀장
 > 역할분담 및 회의 진행
