@@ -15,7 +15,6 @@
 <br/><br/>
 
 ## 🌟 웹사이트 이미지
-![image](https://github.com/seom-j/smart-web-service-for-analyzing-campus-study-space-occupancy/assets/112147135/5361b176-da6b-4819-a274-e252fcc809d9)
-
+![image](https://github.com/seom-j/smart-web-service-for-analyzing-campus-study-space-occupancy/assets/112147135/aa39d0d6-37bf-447c-a8b9-d9469729f8c0)
 
 
