@@ -2,6 +2,8 @@
 seatnullnull : smart-web-service-analyzing-campus-study-space-occupancy
 
 > 세종대학교 2023-2 창의학기제
+> 
+> 2023.06 ~ 2023.12
 
 <br/><br/>
 
